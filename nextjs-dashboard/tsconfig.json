@@ -19,7 +19,7 @@
       }
     ],
     "paths": {
-      "@/*": ["./*", "nextjs-dashboard"]
+      "@/*": ["./*", "./nextjs-dashboard"]
     }
   },
   "include": [
